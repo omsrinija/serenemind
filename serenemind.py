@@ -1,5 +1,4 @@
-import os
-os.environ['STREAMLIT_CONFIG_DIR'] = os.getcwd()
+
 import streamlit as st
 import pandas as pd
 
